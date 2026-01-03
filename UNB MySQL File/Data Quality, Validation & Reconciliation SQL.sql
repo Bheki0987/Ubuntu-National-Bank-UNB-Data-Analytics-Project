@@ -159,4 +159,3 @@ SELECT transaction_id, account_id, transaction_amount
 FROM transactions
 WHERE transaction_amount >= 100000;
 
--- END OF DELIVERABLE 6
