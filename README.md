@@ -56,7 +56,7 @@ This project adheres to **banking data best practices**, distinguishing it from 
 
 ## 🏗 Data Architecture
 
-*[Insert Entity Relationship Diagram Here]*
+* ![Insert Entity Relationship Diagram Here](ERD-For-Ubuntu-National-Bank.png) *
 
 The database schema includes normalized tables designed for high referential integrity.
 
