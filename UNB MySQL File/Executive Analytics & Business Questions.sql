@@ -99,4 +99,3 @@ FROM vw_daily_transaction_summary
 WHERE transaction_volume >
       (SELECT AVG(transaction_volume) FROM vw_daily_transaction_summary);
 
--- END OF DELIVERABLE 8
