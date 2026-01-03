@@ -105,3 +105,23 @@ UNB-Banking-Analytics/
 │
 ├── LICENSE
 └── README.md
+```
+
+## 🚀 How to Run
+- Clone the Repository
+```
+Bash
+
+git clone [https://github.com/your-username/unb-banking-data-analytics.git](https://github.com/your-username/unb-banking-data-analytics.git)
+Initialize Database
+```
+
+- Open your MySQL client (Workbench/DBeaver).
+- Execute the scripts in 2️⃣ UNB MySQL File/ in numeric order (01 -> 04).
+- Run Analytics
+- Execute the 04_Analytical_Views.sql to generate report tables.
+
+## 👤 Author
+Bheki Mogola
+Data Analyst | Business Analyst | Database Analyst
+LinkedIn: (add link)
