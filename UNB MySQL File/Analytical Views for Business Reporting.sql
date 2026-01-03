@@ -88,4 +88,3 @@ LEFT JOIN customers c ON a.customer_id = c.customer_id
 LEFT JOIN transactions t ON a.account_id = t.account_id
 GROUP BY b.branch_id;
 
--- END OF DELIVERABLE 7
