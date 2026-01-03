@@ -8,7 +8,7 @@
 
 This repository hosts an end-to-end, real-world simulated banking data analytics project built using **MySQL**. It represents the data environment of a fictional financial institution, **Ubuntu National Bank (UNB)**.
 
-Unlike standard tutorial projects, this repository demonstrates the **full data lifecycle**—from business requirement gathering and conceptual modeling to data quality assurance, reconciliation, and executive analytics. It is designed to mirror the actual workflows of Data Analysts and Database Analysts in the financial sector.
+This repository demonstrates the **full data lifecycle**—from business requirement gathering and conceptual modeling to data quality assurance, reconciliation, and executive analytics. It is designed to mirror the actual workflows of Data Analysts and Database Analysts in the financial sector.
 
 ---
 
@@ -43,7 +43,7 @@ The analytics suite in this project solves specific business problems:
 
 ## 💡 Project Philosophy & Design
 
-This project adheres to **banking data best practices**, distinguishing it from typical portfolio projects:
+This project adheres to **banking data best practices**:
 
 > **"Balances are derived, not stored."**
 
@@ -68,7 +68,7 @@ The database schema includes normalized tables designed for high referential int
 
 ### 💻 Tech Stack
 * **Database:** MySQL
-* **Tools:** MySQL Workbench / DBeaver
+* **Tools:** MySQL Workbench
 
 ### 📊 SQL Skills Demonstrated
 * **Advanced DDL:** Table creation with strict constraints and indexing strategies.
