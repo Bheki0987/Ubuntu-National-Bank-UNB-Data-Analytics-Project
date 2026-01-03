@@ -82,45 +82,34 @@ The database schema includes normalized tables designed for high referential int
 ## 📂 Repository Structure
 
 ```text
-UNB-Banking-Analytics/
+Ubuntu-National-Bank-UNB-Data-Analytics-Project/
 ├── 1️⃣ UNB Documentation/
-│   ├── Business_Requirements.pdf
-│   ├── ER_Diagrams.pdf
-│   └── Data_Dictionary.xlsx
-│   ├── Description: Business rules, logical models, and data quality frameworks.
 │
 ├── 2️⃣ UNB MySQL File/
-│   ├── 01_Schema_Creation.sql
-│   ├── 02_Data_Seeding.sql
-│   ├── 03_Data_Quality_Checks.sql
-│   └── 04_Analytical_Views.sql
-│   ├── Description: DDL, DML, and Analytical scripts.
 │
 ├── 3️⃣ UNB MySQL Screenshots/
-│   ├── schema_build_success.png
-│   ├── query_execution_results.png
-│   └── dashboard_views.png
-│   ├── Description: Visual validation of the implementation.
 │
 ├── LICENSE
 └── README.md
 ```
 
 ## 🚀 How to Run
-- Clone the Repository
+*1. Clone the Repository*
 ```
 Bash
 
-git clone [https://github.com/your-username/unb-banking-data-analytics.git](https://github.com/your-username/unb-banking-data-analytics.git)
-Initialize Database
+git clone https://github.com/Bheki0987/Ubuntu-National-Bank-UNB-Data-Analytics-Project.git
 ```
+*2. Initialize Database*
+  - Open your MySQL client (Workbench/DBeaver).
+  - Execute the scripts in 2️⃣ UNB MySQL File/ in numeric order (01 -> 04).
 
-- Open your MySQL client (Workbench/DBeaver).
-- Execute the scripts in 2️⃣ UNB MySQL File/ in numeric order (01 -> 04).
-- Run Analytics
-- Execute the 04_Analytical_Views.sql to generate report tables.
+*3. Run Analytics*
+  - Execute the 04_Analytical_Views.sql to generate report tables.
+  - Run specific KPI queries to see the "Customer 360" or "Branch Performance" reports.
 
 ## 👤 Author
 Bheki Mogola
-Data Analyst | Business Analyst | Database Analyst
-LinkedIn: (add link)
+Data Analyst | Business Analyst | Database Analyst 
+
+[LinkedIn](https://www.linkedin.com/in/bheki-mogola/)
