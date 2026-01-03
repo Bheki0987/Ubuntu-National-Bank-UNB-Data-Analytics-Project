@@ -68,7 +68,7 @@ The database schema includes normalized tables designed for high referential int
 
 ### 💻 Tech Stack
 * **Database:** MySQL
-* **Tools:** MySQL Workbench
+* **Tools:** MySQL Workbench, AI (ChatGPT)
 
 ### 📊 SQL Skills Demonstrated
 * **Advanced DDL:** Table creation with strict constraints and indexing strategies.
